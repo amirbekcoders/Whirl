@@ -76,6 +76,7 @@ h6 {
 
 .hero__img {
     position: absolute;
+    margin-left:500px;
 }
 
 .hero__left {
